@@ -1,4 +1,4 @@
-var userPaddle, computerPaddle, computerScore, playerScore, gameState, ball,scoreSound, wall_hitSound, hitSound;
+var userPaddle, computerPaddle, computerScore, playerScore, gameState, ball;
 
 function setup() {
   
